@@ -7,7 +7,7 @@
 
 ## À propos
 
-Étudiant en informatique, actuellement en formation sur les concepts fondamentaux du développement logiciel, avec une approche projet basée sur la pratique et l'autonomie.
+Étudiant en informatique, actuellement en formation sur du développement logiciel, avec une approche projet basée sur la pratique et l'autonomie.
 
 ---
 
@@ -28,17 +28,12 @@ Shell Unix complet codé en C, avec gestion des processus, parsing, redirections
 ### 🧠 `corewar`  
 Jeu de simulation en langage assembleur : création d’un assembleur, d’un interpréteur (VM), et de programmes (champions) s’affrontant dans une arène mémoire selon des règles strictes.
 
-### 🔧 Autres projets notables
-- `my_printf` – Réécriture de la fonction printf (C)
-- `bistromatic` – Calculatrice en ligne de commande avec gestion des priorités et expressions (C)
-- `mini-shell` – Interpréteur simple de commandes Unix (C)
-
 ---
 
 ## 🔗 Me retrouver
 
 - GitHub : [github.com/aurelien-loyer](https://github.com/aurelien-loyer)
-- Site : [aurelien-loyer.github.io](https://aurelien-loyer.github.io)
+- Portfolio : [aurelien-loyer.github.io](https://aurelien-loyer.github.io)
 
 ---
 
