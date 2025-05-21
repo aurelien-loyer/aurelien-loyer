@@ -26,7 +26,7 @@ Moteur 3D simplifié basé sur la **CSFML**, utilisant la technique du **ray cas
 Shell Unix complet codé en C, avec gestion des processus, parsing, redirections, pipes, historiques, et variables d’environnement.
 
 ### 🧠 `corewar`  
-Jeu de simulation en langage assembleur : création d’un assembleur, d’un interpréteur (VM), et de programmes (champions) s’affrontant dans une arène mémoire selon des règles strictes.
+Création d’un interpréteur (VM), et de programmes (champions) s’affrontant dans une arène mémoire selon des règles strictes.
 
 ---
 
