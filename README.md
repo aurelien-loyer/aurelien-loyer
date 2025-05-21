@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 LOYER Aurélien
 
-<!--
-**aurelien-loyer/aurelien-loyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en première année à **Epitech** La Réunion  
+🎓 Promotion **@EpitechPGEPromo2029**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## À propos
+
+Étudiant en informatique, actuellement en formation sur les concepts fondamentaux du développement logiciel, avec une approche projet basée sur la pratique et l'autonomie.
+
+---
+
+## 🌐 Site personnel
+
+🔗 [aurelien-loyer.github.io](https://aurelien-loyer.github.io)
+
+---
+
+## 📁 Projets
+
+### 🕹️ `wolf3D`  
+Moteur 3D simplifié basé sur la **CSFML**, utilisant la technique du **ray casting** pour générer une vue pseudo-3D à partir d'une carte 2D (inspiré de Wolfenstein 3D).
+
+### 🛠️ `42sh`  
+Shell Unix complet codé en C, avec gestion des processus, parsing, redirections, pipes, historiques, et variables d’environnement.
+
+### 🧠 `corewar`  
+Jeu de simulation en langage assembleur : création d’un assembleur, d’un interpréteur (VM), et de programmes (champions) s’affrontant dans une arène mémoire selon des règles strictes.
+
+### 🔧 Autres projets notables
+- `my_printf` – Réécriture de la fonction printf (C)
+- `bistromatic` – Calculatrice en ligne de commande avec gestion des priorités et expressions (C)
+- `mini-shell` – Interpréteur simple de commandes Unix (C)
+
+---
+
+## 🔗 Me retrouver
+
+- GitHub : [github.com/aurelien-loyer](https://github.com/aurelien-loyer)
+- Site : [aurelien-loyer.github.io](https://aurelien-loyer.github.io)
+
+---
+
+*Ce profil évolue au fil des projets réalisés dans le cadre du cursus Epitech.*
