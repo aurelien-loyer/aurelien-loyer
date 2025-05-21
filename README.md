@@ -9,14 +9,6 @@
 
 Étudiant en informatique, actuellement en formation sur du développement logiciel, avec une approche projet basée sur la pratique et l'autonomie.
 
----
-
-## 🌐 Site personnel
-
-🔗 [aurelien-loyer.github.io](https://aurelien-loyer.github.io)
-
----
-
 ## 📁 Projets
 
 ### 🕹️ `wolf3D`  
@@ -32,9 +24,5 @@ Création d’un interpréteur (VM), et de programmes (champions) s’affrontant
 
 ## 🔗 Me retrouver
 
-- GitHub : [github.com/aurelien-loyer](https://github.com/aurelien-loyer)
+- Linkedin : [in/aurelien-loyer-epi](https://www.linkedin.com/in/aurelien-loyer-epi/)
 - Portfolio : [aurelien-loyer.github.io](https://aurelien-loyer.github.io)
-
----
-
-*Ce profil évolue au fil des projets réalisés dans le cadre du cursus Epitech.*
