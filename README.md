@@ -24,5 +24,4 @@ Création d’un interpréteur (VM), et de programmes (champions) s’affrontant
 
 ## 🔗 Me retrouver
 
-- Linkedin : [in/aurelien-loyer-epi](https://www.linkedin.com/in/aurelien-loyer-epi/)
-- Portfolio : [aurelien-loyer.github.io](https://aurelien-loyer.github.io)
+- [Linktree](https://linktr.ee/aurelien.loyer)
