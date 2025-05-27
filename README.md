@@ -7,7 +7,7 @@
 
 ## À propos
 
-Étudiant en informatique, actuellement en formation sur du développement logiciel, avec une approche projet basée sur la pratique et l'autonomie.
+Étudiant en informatique, actuellement en formation sur du développement logiciel, avec une approche basée sur la pratique et l'autonomie.
 
 ## 📁 Projets
 
