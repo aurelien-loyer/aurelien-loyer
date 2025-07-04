@@ -15,7 +15,7 @@ I’m Aurélien, a passionate computer science student currently pursuing my stu
 ---
 
 ## 🔧 Skills & Interests
-- **Languages:** C, Python, (and always learning more!)  
+- **Languages:** C, Python, PHP, Laravel (and always learning more!)  
 - **Technologies:** Git, Linux, basic Web Development  
 - **Interests:** Algorithms, software development, creative projects 
 
