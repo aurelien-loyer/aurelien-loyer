@@ -1,12 +1,12 @@
 # 👋 LOYER Aurélien
 
-Second-year student at **Epitech** La Réunion
+Third-year student at **Epitech** La Réunion
 
 ---
 
 ## 🌟 About Me
 
-I’m Aurélien, a second-year computer science student at Epitech with hands-on professional experience in software development.
+I’m Aurélien, a third-year computer science student at Epitech with hands-on professional experience in software development.
 
 💻 I completed a **6-month internship at ZEOP**, a major telecommunications operator, where I worked within the **Information Systems Department**.
 🚀 I contributed to the **modernization of an internal information system**, migrating legacy application features to a modern platform.
