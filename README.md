@@ -1,6 +1,10 @@
 <!-- Bannière -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Aurélien%20Loyer&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Étudiant%20EPITECH%20·%20Développeur%20Full-Stack%20%26%20IA&descAlignY=58&descSize=18" alt="Aurélien Loyer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Aur%C3%A9lien%20Loyer&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=%C3%89tudiant%20EPITECH%20%C2%B7%20D%C3%A9veloppeur%20Full-Stack%20%26%20IA&descAlignY=58&descSize=18" alt="Aurélien Loyer" />
+</p>
+
+<p align="center">
+  <a href="https://aurelien-loyer.dev"><img src="assets/logo_al.png" width="96" alt="Logo Aurélien Loyer" /></a>
 </p>
 
 <p align="center">
@@ -34,6 +38,19 @@ J'aime construire des produits complets : du serveur C++ temps réel au site Rea
 - 🏆 **Hackathons** : 1re place au Hackathon FREE, 2e place au Hackathon Justice Tech, 2e du campus sur Zappy.
 - 🎯 **Je cherche** : un **stage de 4 mois à partir d'avril 2027**, puis une année à l'international en 2027-2028.
 - 🏄 Avant le code, j'étais sauveteur et moniteur de surf. Je le suis encore un peu.
+
+<p align="center">
+  <a href="https://www.epitech.eu">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/epitech-logo.svg" />
+      <img src="assets/epitech-logo-dark.svg" height="34" alt="EPITECH" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.free.fr"><img src="assets/free.webp" height="40" alt="Free" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.zeop.re"><img src="assets/zeop.webp" height="40" alt="ZEOP" /></a>
+</p>
 
 ```js
 const aurelien = {
@@ -119,16 +136,17 @@ const aurelien = {
 
 ## 🧭 Parcours
 
-```text
-2024 ─┬─ 🎓 Bac général mention · NSI & Maths
-      └─ 🏫 EPITECH 1re année · C, Unix
-2025 ─┬─ 💼 Stage développeur web @ ZEOP (6 mois) · migration PHP 3 → Laravel / PHP 8
-2026 ─┼─ 🏫 EPITECH 2e année · C++, POO, AWS
-      ├─ 🤖 Alternance Agent IA @ Free (oct. 2026 → fév. 2027)
-2027 ─┼─ 🔎 Stage 4 mois (avril → juillet) · je cherche !
-      └─ ✈️ 4e année à l'international
-2029 ─── 🎓 Diplôme Expert en Technologies de l'Information (Bac +5)
-```
+| | Période | Étape |
+|:---:|---|---|
+| <img src="assets/free.webp" width="64" alt="Free" /> | oct. 2026 → fév. 2027 | 🤖 **Alternance · Agent IA** @ Free · Python, LangGraph, Mistral, RAG |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/epitech-logo.svg" /><img src="assets/epitech-logo-dark.svg" width="64" alt="EPITECH" /></picture> | 2026 → 2027 | 🏫 **EPITECH 3e année** · puis stage de 4 mois (avril → juillet 2027), **je cherche !** |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/epitech-logo.svg" /><img src="assets/epitech-logo-dark.svg" width="64" alt="EPITECH" /></picture> | mars → août 2026 | 🏫 **EPITECH 2e année** · C++, POO, AWS |
+| <img src="assets/zeop.webp" width="64" alt="ZEOP" /> | sept. 2025 → fév. 2026 | 💼 **Stage développeur web** @ ZEOP · migration PHP 3 → Laravel / PHP 8 |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/epitech-logo.svg" /><img src="assets/epitech-logo-dark.svg" width="64" alt="EPITECH" /></picture> | 2024 → 2025 | 🏫 **EPITECH 1re année** · C, Unix |
+| <img src="assets/lycee-gerard-etheve.webp" width="64" alt="Lycée Gérard Ethève" /> | juillet 2024 | 🎓 **Bac général avec mention** · NSI & Maths |
+| <img src="assets/akoatys.webp" width="64" alt="Akoatys" /> | déc. 2023 → janv. 2024 | 🏄 **Sauveteur & moniteur de surf** @ Akoatys |
+
+**La suite :** 4e année à l'international (2027-2028), puis diplôme Expert en Technologies de l'Information, Bac +5 (2029).
 
 ---
 
@@ -156,13 +174,13 @@ const aurelien = {
 ### 📈 Activité
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aurelien-loyer&theme=tokyo-night&hide_border=true&area=true" alt="Graphe d'activité" />
+  <img src="https://ghchart.rshah.org/2563eb/aurelien-loyer" alt="Calendrier des contributions" />
 </p>
 
 ### 🏅 Trophées
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aurelien-loyer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophées GitHub" />
+  <img src="https://github-trophies.vercel.app/?username=aurelien-loyer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophées GitHub" />
 </p>
 
 ### 🐍 Contributions
