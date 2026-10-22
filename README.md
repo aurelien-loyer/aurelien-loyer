@@ -29,7 +29,7 @@
 Je suis **Aurélien**, étudiant en 3e année à **EPITECH La Réunion** (cursus Expert en Technologies de l'Information, Bac +5).
 J'aime construire des produits complets : du serveur C++ temps réel au site React en PWA, en passant par des agents IA qui tournent en local.
 
-- 🤖 **En ce moment** : alternance chez **Free**, où je développe un **agent IA interne** (pipeline RAG 100 % local, LangGraph, Mistral, SGLang).
+- 🤖 **En ce moment** : stage à temps partiel chez **Free** (2 jours par semaine), où je développe un **agent IA interne** (pipeline RAG 100 % local, LangGraph, Mistral, SGLang).
 - 🏗️ **Projet perso** : **BDE Hub**, un écosystème de 3 PWA React synchronisées en temps réel via Supabase, avec paiement SumUp.
 - 🏆 **Hackathons** : 1re place au Hackathon FREE, 2e place au Hackathon Justice Tech, 2e du campus sur Zappy.
 - 🎯 **Je cherche** : un **stage de 4 mois à partir d'avril 2027**, puis une année à l'international en 2027-2028.
@@ -50,7 +50,7 @@ J'aime construire des produits complets : du serveur C++ temps réel au site Rea
 ```js
 const aurelien = {
   ecole: "EPITECH La Réunion · 3e année",
-  poste: "Alternant · Agent IA @ Free",
+  poste: "Stagiaire (temps partiel) · Agent IA @ Free",
   focus: ["Full-stack web", "IA & RAG", "Systèmes (C / C++)"],
   langues: ["Français", "English"],
   recherche: "Stage 4 mois · avril → juillet 2027",
@@ -133,7 +133,7 @@ const aurelien = {
 
 | | Période | Étape |
 |:---:|---|---|
-| <img src="assets/free.webp" width="64" alt="Free" /> | oct. 2026 → fév. 2027 | 🤖 **Alternance · Agent IA** @ Free · Python, LangGraph, Mistral, RAG |
+| <img src="assets/free.webp" width="64" alt="Free" /> | oct. 2026 → fév. 2027 | 🤖 **Stage à temps partiel · Agent IA** @ Free · Python, LangGraph, Mistral, RAG |
 | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/epitech-logo.svg" /><img src="assets/epitech-logo-dark.svg" width="64" alt="EPITECH" /></picture> | 2026 → 2027 | 🏫 **EPITECH 3e année** · puis stage de 4 mois (avril → juillet 2027), **je cherche !** |
 | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/epitech-logo.svg" /><img src="assets/epitech-logo-dark.svg" width="64" alt="EPITECH" /></picture> | mars → août 2026 | 🏫 **EPITECH 2e année** · C++, POO, AWS |
 | <img src="assets/zeop.webp" width="64" alt="ZEOP" /> | sept. 2025 → fév. 2026 | 💼 **Stage développeur web** @ ZEOP · migration PHP 3 → Laravel / PHP 8 |
