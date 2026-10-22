@@ -97,20 +97,20 @@ const aurelien = {
 
 ## 🚀 Projets à la une
 
-| Projet | Description | Stack | Liens |
-|---|---|---|---|
-| 🤖 **Agent IA interne** · *Free* | Pipeline RAG entièrement local : documentation interne hétérogène (PDF, Word) transformée en base de connaissances interrogeable par un agent. | Python · LangGraph · SGLang · Mistral · Ollama | 🔒 Privé |
-| 🏗️ **BDE Hub** · *en cours* | 3 applications React installables (PWA) sur une base Supabase commune, synchronisées en temps réel : vitrine, boutique, admin. | React · Supabase · Cloudinary · SumUp API | [Démo](https://bdepitech-link.vercel.app/) |
-| 🥇 **Couverture d'antenne** · *Hackathon FREE* | App géospatiale full-stack : 2 651 antennes à La Réunion et Mayotte, couverture 2D/3D, estimation de la puissance du signal. | TypeScript · Python · MapLibre · Leaflet · Docker | [Vidéo](https://youtu.be/6jD4o2KlAXg) |
-| 🥈 **IRIS** · *Hackathon Justice Tech* | Site réalisé en 48 h pour régler les conflits à l'amiable, avec IRIS, une assistante IA locale (RAG) respectueuse du RGPD. | Next.js · Ollama · Docker | — |
-| 🎮 **Zappy** · *2e du campus* | Projet à 5 : serveur C++ temps réel, client graphique Raylib (rendu isométrique + 3D torique) et IA Python autonome. | C++ · Raylib · Python · TCP/poll | — |
-| 🤖 **Buddy** | App Android qui transforme le robot Buddy en guide conversationnel du Hub EPITECH. Présenté le 14 juillet à la Préfecture de La Réunion. | Kotlin · Android · Groq (LLM) · STT/TTS | [Repo](https://github.com/aurelien-loyer-dev/BUDDY-THE-ROBOT) |
-| 🖨️ **3D Planner** | Planning et réservation des imprimantes 3D d'EPITECH, connecté à l'API BambuLab. | React · TypeScript · Supabase Realtime | [Démo](https://3d-printer-epitech.vercel.app/?kiosk=1) |
-| ♟️ **Échecs avec IA** | Jeu d'échecs jouable en ligne contre une IA Python. | React · Flask | [Démo](https://chess-game-vwsf.vercel.app/) · [Repo](https://github.com/aurelien-loyer-dev/ChessGame) |
-| 📖 **Zistoire** · *Hackathon MACE* | Les clients d'un hôtel scannent un QR code et découvrent l'histoire de La Réunion en récit illustré. | Python · Flask · React | [Repo](https://github.com/aurelien-loyer-dev/zistoire-hackaton-mace) |
-| 🏐 **WS Tchoukball** / **Tchouk'Leu** | Sites officiels de deux clubs de tchoukball réunionnais. | React · Supabase · Cloudinary | [wstchoukball.com](https://wstchoukball.com) · [tchoukleu.re](https://tchoukleu.re) |
-| 🐚 **42sh** | Shell Unix en C : pipes, redirections, gestion complète des processus. | C · NCurses | [Repo](https://github.com/aurelien-loyer/42sh) |
-| ⚔️ **Corewar** / 📡 **MyRadar** | VM où des programmes assembleur s'affrontent · simulation radar avec quadtree. | C · ASM · CSFML | — |
+| | Projet | Description | Stack | Liens |
+|:---:|---|---|---|---|
+| <img src="assets/free.webp" width="48" alt="Free" /> | 🤖 **Agent IA interne** · *Free* | Pipeline RAG entièrement local : documentation interne hétérogène (PDF, Word) transformée en base de connaissances interrogeable par un agent. | Python · LangGraph · SGLang · Mistral · Ollama | 🔒 Privé |
+| <img src="assets/bde-epitech.png" width="48" alt="BDE EPITECH" /> | 🏗️ **BDE Hub** · *en cours* | 3 applications React installables (PWA) sur une base Supabase commune, synchronisées en temps réel : vitrine, boutique, admin. | React · Supabase · Cloudinary · SumUp API | [Démo](https://bdepitech-link.vercel.app/) |
+| <img src="assets/free.webp" width="48" alt="Free" /> | 🥇 **Couverture d'antenne** · *Hackathon FREE* | App géospatiale full-stack : 2 651 antennes à La Réunion et Mayotte, couverture 2D/3D, estimation de la puissance du signal. | TypeScript · Python · MapLibre · Leaflet · Docker | [Vidéo](https://youtu.be/6jD4o2KlAXg) |
+| <img src="assets/iris.png" width="48" alt="IRIS" /> | 🥈 **IRIS** · *Hackathon Justice Tech* | Site réalisé en 48 h pour régler les conflits à l'amiable, avec IRIS, une assistante IA locale (RAG) respectueuse du RGPD. | Next.js · Ollama · Docker | — |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/epitech-logo.svg" /><img src="assets/epitech-logo-dark.svg" width="56" alt="EPITECH" /></picture> | 🎮 **Zappy** · *2e du campus* | Projet à 5 : serveur C++ temps réel, client graphique Raylib (rendu isométrique + 3D torique) et IA Python autonome. | C++ · Raylib · Python · TCP/poll | — |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/epitech-logo.svg" /><img src="assets/epitech-logo-dark.svg" width="56" alt="EPITECH" /></picture> | 🤖 **Buddy** | App Android qui transforme le robot Buddy en guide conversationnel du Hub EPITECH. Présenté le 14 juillet à la Préfecture de La Réunion. | Kotlin · Android · Groq (LLM) · STT/TTS | [Repo](https://github.com/aurelien-loyer-dev/BUDDY-THE-ROBOT) |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/epitech-logo.svg" /><img src="assets/epitech-logo-dark.svg" width="56" alt="EPITECH" /></picture> | 🖨️ **3D Planner** | Planning et réservation des imprimantes 3D d'EPITECH, connecté à l'API BambuLab. | React · TypeScript · Supabase Realtime | [Démo](https://3d-printer-epitech.vercel.app/?kiosk=1) |
+| <img src="assets/logo.png" width="48" alt="Projet perso" /> | ♟️ **Échecs avec IA** | Jeu d'échecs jouable en ligne contre une IA Python. | React · Flask | [Démo](https://chess-game-vwsf.vercel.app/) · [Repo](https://github.com/aurelien-loyer-dev/ChessGame) |
+| <img src="assets/zistoire.png" width="48" alt="Zistoire" /> | 📖 **Zistoire** · *Hackathon MACE* | Les clients d'un hôtel scannent un QR code et découvrent l'histoire de La Réunion en récit illustré. | Python · Flask · React | [Repo](https://github.com/aurelien-loyer-dev/zistoire-hackaton-mace) |
+| <img src="assets/ws-tchoukball.png" width="48" alt="White Sharks" /> <img src="assets/tchoukleu.png" width="48" alt="Tchouk'Leu" /> | 🏐 **WS Tchoukball** / **Tchouk'Leu** | Sites officiels de deux clubs de tchoukball réunionnais. | React · Supabase · Cloudinary | [wstchoukball.com](https://wstchoukball.com) · [tchoukleu.re](https://tchoukleu.re) |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/epitech-logo.svg" /><img src="assets/epitech-logo-dark.svg" width="56" alt="EPITECH" /></picture> | 🐚 **42sh** | Shell Unix en C : pipes, redirections, gestion complète des processus. | C · NCurses | [Repo](https://github.com/aurelien-loyer/42sh) |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/epitech-logo.svg" /><img src="assets/epitech-logo-dark.svg" width="56" alt="EPITECH" /></picture> | ⚔️ **Corewar** / 📡 **MyRadar** | VM où des programmes assembleur s'affrontent · simulation radar avec quadtree. | C · ASM · CSFML | — |
 
 <p align="center">
   <a href="https://aurelien-loyer.dev"><b>➜ Tous les projets, avec photos et détails, sur mon portfolio</b></a>
