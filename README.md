@@ -37,7 +37,6 @@ J'aime construire des produits complets : du serveur C++ temps réel au site Rea
 - 🏗️ **Projet perso** : **BDE Hub**, un écosystème de 3 PWA React synchronisées en temps réel via Supabase, avec paiement SumUp.
 - 🏆 **Hackathons** : 1re place au Hackathon FREE, 2e place au Hackathon Justice Tech, 2e du campus sur Zappy.
 - 🎯 **Je cherche** : un **stage de 4 mois à partir d'avril 2027**, puis une année à l'international en 2027-2028.
-- 🏄 Avant le code, j'étais sauveteur et moniteur de surf. Je le suis encore un peu.
 
 <p align="center">
   <a href="https://www.epitech.eu">
