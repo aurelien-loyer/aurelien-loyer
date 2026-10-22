@@ -1,10 +1,6 @@
 <!-- Bannière -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Aur%C3%A9lien%20Loyer&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=%C3%89tudiant%20EPITECH%20%C2%B7%20D%C3%A9veloppeur%20Full-Stack%20%26%20IA&descAlignY=58&descSize=18" alt="Aurélien Loyer" />
-</p>
-
-<p align="center">
-  <a href="https://aurelien-loyer.dev"><img src="assets/logo_al.png" width="96" alt="Logo Aurélien Loyer" /></a>
+  <img src="assets/banner.svg" width="100%" alt="Aurélien Loyer · Étudiant EPITECH, développeur Full-Stack & IA" />
 </p>
 
 <p align="center">
